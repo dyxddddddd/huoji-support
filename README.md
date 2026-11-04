@@ -5,3 +5,5 @@
 发布地址：<https://dyxddddddd.github.io/huoji-support/>
 
 页面内容仅包含帮助说明和公开支持邮箱，不包含 App 源码、用户数据或服务端配置。
+
+最近更新：GitHub Pages 自动部署已配置。
